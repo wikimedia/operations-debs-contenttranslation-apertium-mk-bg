@@ -1,0 +1,28 @@
+Source: apertium-mk-bg
+Section: science
+Priority: optional
+Maintainer: Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>
+Uploaders: Tino Didriksen <mail@tinodidriksen.com>,
+           Kartik Mistry <kartik@debian.org>
+Build-Depends: apertium,
+               cg3,
+               debhelper (>= 8.0),
+               dh-autoreconf,
+               gawk,
+               libapertium3-3.3-dev,
+               locales,
+               lttoolbox,
+               pkg-config (>= 0.21)
+Standards-Version: 3.9.6
+Homepage: http://apertium.org/
+Vcs-Git: git://anonscm.debian.org/debian-science/packages/apertium-mk-bg.git
+Vcs-Browser: https://anonscm.debian.org/cgit/debian-science/packages/apertium-mk-bg.git
+
+Package: apertium-mk-bg
+Architecture: all
+Depends: apertium (>= 3.3), cg3, ${misc:Depends}, ${shlibs:Depends}
+Provides: apertium-bg-mk
+Conflicts: apertium-bg-mk
+Description: Apertium translation data for the Macedonian-Bulgarian pair
+ Data package providing Apertium language resources for translating
+ between the Macedonian and Bulgarian languages.
