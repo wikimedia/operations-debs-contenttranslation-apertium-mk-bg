@@ -1,0 +1,800 @@
+<e><p><l>Ааре<s n="np"/><s n="top"/><s n="nt"/></l><r>Ааре<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Абдал<s n="np"/><s n="top"/><s n="m"/></l><r>Абдал<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Абланово<s n="np"/><s n="top"/><s n="nt"/></l><r>Абланово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Аботабад<s n="np"/><s n="top"/><s n="m"/></l><r>Аботабад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Абрузо<s n="np"/><s n="top"/><s n="nt"/></l><r>Абруцо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Абу<s n="np"/><s n="top"/><s n="m"/></l><r>Абу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Абхазија<s n="np"/><s n="top"/><s n="f"/></l><r>Абхазия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Авињон<s n="np"/><s n="top"/><s n="m"/></l><r>Авиньон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Австро<s n="np"/><s n="top"/><s n="nt"/></l><r>Австро<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Агани<s n="np"/><s n="top"/><s n="m"/></l><r>Агани<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Агија<s n="np"/><s n="top"/><s n="f"/></l><r>Агия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Агиос<s n="np"/><s n="top"/><s n="m"/></l><r>Агиос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аграфиотис<s n="np"/><s n="top"/><s n="m"/></l><r>Аграфиотис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аграфјоитс<s n="np"/><s n="top"/><s n="m"/></l><r>Аграфотис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аграфјотис<s n="np"/><s n="top"/><s n="m"/></l><r>Аграфотис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аграфотис<s n="np"/><s n="top"/><s n="m"/></l><r>Аграфотис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Агринио<s n="np"/><s n="top"/><s n="nt"/></l><r>Агринио<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Ада<s n="np"/><s n="top"/><s n="f"/></l><r>Ада<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Адамклиси<s n="np"/><s n="top"/><s n="m"/></l><r>Адамклиси<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Адана<s n="np"/><s n="top"/><s n="f"/></l><r>Адана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аделаид<s n="np"/><s n="top"/><s n="m"/></l><r>Аделаида<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аделаида<s n="np"/><s n="top"/><s n="f"/></l><r>Аделаида<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аделаиде<s n="np"/><s n="top"/><s n="nt"/></l><r>Аделаида<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Аден<s n="np"/><s n="top"/><s n="m"/></l><r>Аден<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Адлингтон<s n="np"/><s n="top"/><s n="m"/></l><r>Адлингтън<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Адриа<s n="np"/><s n="top"/><s n="f"/></l><r>Адриа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Адрија<s n="np"/><s n="top"/><s n="f"/></l><r>Адрия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аерхус<s n="np"/><s n="top"/><s n="m"/></l><r>Аархус<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Азад<s n="np"/><s n="top"/><s n="m"/></l><r>Азад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>АзербејYан<s n="np"/><s n="top"/><s n="m"/></l><r>Азербайджан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ајај<s n="np"/><s n="top"/><s n="m"/></l><r>Аджай<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ајам<s n="np"/><s n="top"/><s n="m"/></l><r>Аям<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ајдар<s n="np"/><s n="top"/><s n="m"/></l><r>Айдар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ајен<s n="np"/><s n="top"/><s n="m"/></l><r>Айен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ајка<s n="np"/><s n="top"/><s n="f"/></l><r>Айка<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ајланд<s n="np"/><s n="top"/><s n="m"/></l><r>Айлънд<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ак<s n="np"/><s n="top"/><s n="m"/></l><r>Ак<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Акин<s n="np"/><s n="top"/><s n="m"/></l><r>Акин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Акјурт<s n="np"/><s n="top"/><s n="m"/></l><r>Акюрт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Акрата<s n="np"/><s n="top"/><s n="f"/></l><r>Акрата<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Акрополис<s n="np"/><s n="top"/><s n="m"/></l><r>Акропола<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Акротири<s n="np"/><s n="top"/><s n="m"/></l><r>Акротири<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аксај<s n="np"/><s n="top"/><s n="m"/></l><r>Аксай<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аксарај<s n="np"/><s n="top"/><s n="m"/></l><r>Аксарай<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Актај<s n="np"/><s n="top"/><s n="m"/></l><r>Актай<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>ал<s n="np"/><s n="top"/><s n="m"/></l><r>ал<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алабама<s n="np"/><s n="top"/><s n="f"/></l><r>Алабама<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Алабанија<s n="np"/><s n="top"/><s n="f"/></l><r>Алабанија<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Алб<s n="np"/><s n="top"/><s n="m"/></l><r>Алб<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Албаниј<s n="np"/><s n="top"/><s n="m"/></l><r>Албания<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алби<s n="np"/><s n="top"/><s n="m"/></l><r>Алби<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Албу<s n="np"/><s n="top"/><s n="m"/></l><r>Албу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Алејо<s n="np"/><s n="top"/><s n="nt"/></l><r>Зала<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Александриа<s n="np"/><s n="top"/><s n="f"/></l><r>Александрия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Александрија<s n="np"/><s n="top"/><s n="f"/></l><r>Александрия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Алексинац<s n="np"/><s n="top"/><s n="m"/></l><r>Алексинац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алем<s n="np"/><s n="top"/><s n="m"/></l><r>Алем<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алепо<s n="np"/><s n="top"/><s n="nt"/></l><r>Халеб<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Алех<s n="np"/><s n="top"/><s n="m"/></l><r>Алехо<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алеш<s n="np"/><s n="top"/><s n="m"/></l><r>Алеш<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алжир<s n="np"/><s n="top"/><s n="m"/></l><r>Алжир<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алин<s n="np"/><s n="top"/><s n="m"/></l><r>Алин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алити<s n="np"/><s n="top"/><s n="m"/></l><r>Алити<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алкатраз<s n="np"/><s n="top"/><s n="m"/></l><r>Алкатраз<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алмати<s n="np"/><s n="top"/><s n="m"/></l><r>Алмати<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алпан<s n="np"/><s n="top"/><s n="m"/></l><r>Алпан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алпбах<s n="np"/><s n="top"/><s n="m"/></l><r>Алпбах<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алстон<s n="np"/><s n="top"/><s n="m"/></l><r>Алстън<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Алта<s n="np"/><s n="top"/><s n="f"/></l><r>Алта<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Алтавила<s n="np"/><s n="top"/><s n="f"/></l><r>Алтавила<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Алтенмаркт<s n="np"/><s n="top"/><s n="m"/></l><r>Алтенмаркт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аљаска<s n="np"/><s n="top"/><s n="f"/></l><r>Аляска<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аман<s n="np"/><s n="top"/><s n="m"/></l><r>Аман<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Амасја<s n="np"/><s n="top"/><s n="f"/></l><r>Амаса<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Амелија<s n="np"/><s n="top"/><s n="f"/></l><r>Амелия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Амила<s n="np"/><s n="top"/><s n="f"/></l><r>Амил<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Амстердам<s n="np"/><s n="top"/><s n="m"/></l><r>Амстердам<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ан<s n="np"/><s n="top"/><s n="m"/></l><r>Ан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>АнYело<s n="np"/><s n="top"/><s n="nt"/></l><r>Анджело<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Анахајм<s n="np"/><s n="top"/><s n="m"/></l><r>Анахайм<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ангелариј<s n="np"/><s n="top"/><s n="m"/></l><r>Ангеларий<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ангола<s n="np"/><s n="top"/><s n="f"/></l><r>Ангола<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Андол<s n="np"/><s n="top"/><s n="m"/></l><r>Анадолска<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Андора<s n="np"/><s n="top"/><s n="f"/></l><r>Андора<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Андријевица<s n="np"/><s n="top"/><s n="f"/></l><r>Андриевица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Андрос<s n="np"/><s n="top"/><s n="m"/></l><r>Андрос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Анѓа<s n="np"/><s n="top"/><s n="f"/></l><r>Андя<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Анкона<s n="np"/><s n="top"/><s n="f"/></l><r>Анкона<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Анкор<s n="np"/><s n="top"/><s n="m"/></l><r>Ангкор<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Антакија<s n="np"/><s n="top"/><s n="f"/></l><r>Антакия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Антакја<s n="np"/><s n="top"/><s n="f"/></l><r>Антакия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Анталија<s n="np"/><s n="top"/><s n="f"/></l><r>Анталия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Антверп<s n="np"/><s n="top"/><s n="m"/></l><r>Антверп<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Антверпен<s n="np"/><s n="top"/><s n="m"/></l><r>Антверпен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Антикитера<s n="np"/><s n="top"/><s n="f"/></l><r>Антикитера<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Антиохија<s n="np"/><s n="top"/><s n="f"/></l><r>Антиохија<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Антолц<s n="np"/><s n="top"/><s n="m"/></l><r>Антхолц<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Анџело<s n="np"/><s n="top"/><s n="nt"/></l><r>Анджело<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Апатин<s n="np"/><s n="top"/><s n="m"/></l><r>Апатин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ар<s n="np"/><s n="top"/><s n="m"/></l><r>Ар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арагон<s n="np"/><s n="top"/><s n="m"/></l><r>Арагон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арад<s n="np"/><s n="top"/><s n="m"/></l><r>Арад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арапи<s n="np"/><s n="top"/><s n="m"/></l><r>Араби<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арас<s n="np"/><s n="top"/><s n="m"/></l><r>Арас<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арафат<s n="np"/><s n="top"/><s n="m"/></l><r>Арафат<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арбил<s n="np"/><s n="top"/><s n="m"/></l><r>Арбил<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арви<s n="np"/><s n="top"/><s n="m"/></l><r>Арви<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аргентина<s n="np"/><s n="top"/><s n="f"/></l><r>Аржентина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Арда<s n="np"/><s n="top"/><s n="f"/></l><r>Арда<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Арделеан<s n="np"/><s n="top"/><s n="m"/></l><r>Арделеан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арден<s n="np"/><s n="top"/><s n="m"/></l><r>Арден<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ардија<s n="np"/><s n="top"/><s n="f"/></l><r>Арди<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Арецо<s n="np"/><s n="top"/><s n="nt"/></l><r>Арецо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Аризона<s n="np"/><s n="top"/><s n="f"/></l><r>Аризона<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ариље<s n="np"/><s n="top"/><s n="nt"/></l><r>Ариле<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Аристоменис<s n="np"/><s n="top"/><s n="m"/></l><r>Аристоменис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аритон<s n="np"/><s n="top"/><s n="m"/></l><r>Аритон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арканзас<s n="np"/><s n="top"/><s n="m"/></l><r>Арканзас<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арлингтон<s n="np"/><s n="top"/><s n="m"/></l><r>Арлингтън<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Армелини<s n="np"/><s n="top"/><s n="m"/></l><r>Армелини<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Армениан<s n="np"/><s n="top"/><s n="m"/></l><r>Армениан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Армо<s n="np"/><s n="top"/><s n="nt"/></l><r>Армо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Арно<s n="np"/><s n="top"/><s n="nt"/></l><r>Арно<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Арнон<s n="np"/><s n="top"/><s n="m"/></l><r>Арнон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арнхем<s n="np"/><s n="top"/><s n="m"/></l><r>Арнем<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Арта<s n="np"/><s n="top"/><s n="f"/></l><r>Арта<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Артвин<s n="np"/><s n="top"/><s n="m"/></l><r>Артвин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Архус<s n="np"/><s n="top"/><s n="m"/></l><r>Орхус<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Аскона<s n="np"/><s n="top"/><s n="f"/></l><r>Аскона<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аспен<s n="np"/><s n="top"/><s n="m"/></l><r>Аспен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Астана<s n="np"/><s n="top"/><s n="f"/></l><r>Астана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Астуриас<s n="np"/><s n="top"/><s n="m"/></l><r>Астурия<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Астурија<s n="np"/><s n="top"/><s n="f"/></l><r>Астурия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Атенс<s n="np"/><s n="top"/><s n="m"/></l><r>Атенс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Атикон<s n="np"/><s n="top"/><s n="m"/></l><r>Атика<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Атланта<s n="np"/><s n="top"/><s n="f"/></l><r>Атланта<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аурора<s n="np"/><s n="top"/><s n="f"/></l><r>Аврора<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Аустриа<s n="np"/><s n="top"/><s n="f"/></l><r>Аустрия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Аустрија<s n="np"/><s n="top"/><s n="f"/></l><r>Аустрия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Афганистан<s n="np"/><s n="top"/><s n="m"/></l><r>Афганистан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Афјон<s n="np"/><s n="top"/><s n="m"/></l><r>Анадол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Афјонкарахисар<s n="np"/><s n="top"/><s n="m"/></l><r>Афионкарахисар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Африја<s n="np"/><s n="top"/><s n="f"/></l><r>Африка<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ацех<s n="np"/><s n="top"/><s n="m"/></l><r>Асех<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ачех<s n="np"/><s n="top"/><s n="m"/></l><r>Ачех<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ашхабат<s n="np"/><s n="top"/><s n="m"/></l><r>Ашхабад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ба<s n="np"/><s n="top"/><s n="f"/></l><r>Ба<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бабљак<s n="np"/><s n="top"/><s n="m"/></l><r>Бабляк<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баварија<s n="np"/><s n="top"/><s n="f"/></l><r>Бавария<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Багдат<s n="np"/><s n="top"/><s n="m"/></l><r>Багдад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баго<s n="np"/><s n="top"/><s n="nt"/></l><r>Баго<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Баград<s n="np"/><s n="top"/><s n="m"/></l><r>Багдад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баграм<s n="np"/><s n="top"/><s n="m"/></l><r>Баграм<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баден<s n="np"/><s n="top"/><s n="m"/></l><r>Баден<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бадија<s n="np"/><s n="top"/><s n="f"/></l><r>Бадия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Базак<s n="np"/><s n="top"/><s n="m"/></l><r>Базак<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Базар<s n="np"/><s n="top"/><s n="m"/></l><r>Базар<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Базел<s n="np"/><s n="top"/><s n="m"/></l><r>Базел<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баја<s n="np"/><s n="top"/><s n="f"/></l><r>Бая<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Баја Маре<s n="np"/><s n="top"/><s n="nt"/></l><r>Бая Маре<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бајина<s n="np"/><s n="top"/><s n="f"/></l><r>Байна<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бајран<s n="np"/><s n="top"/><s n="m"/></l><r>Байрам<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Баку<s n="np"/><s n="top"/><s n="m"/></l><r>Баку<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бала<s n="np"/><s n="top"/><s n="f"/></l><r>Балай<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Балај<s n="np"/><s n="top"/><s n="m"/></l><r>Балай<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бали<s n="np"/><s n="top"/><s n="m"/></l><r>Бали<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Балтимор<s n="np"/><s n="top"/><s n="m"/></l><r>Балтимор<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Балчик<s n="np"/><s n="top"/><s n="m"/></l><r>Балчик<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баље<s n="np"/><s n="top"/><s n="nt"/></l><r>Бале <s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Бангалор<s n="np"/><s n="top"/><s n="m"/></l><r>Бангалоре<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бангалоре<s n="np"/><s n="top"/><s n="nt"/></l><r>Бангалор<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бангладеш<s n="np"/><s n="top"/><s n="m"/></l><r>Бангладеш<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баница<s n="np"/><s n="top"/><s n="f"/></l><r>Баница<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Банјас<s n="np"/><s n="top"/><s n="m"/></l><r>Банияс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Банкок<s n="np"/><s n="top"/><s n="m"/></l><r>Банкок<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Баново<s n="np"/><s n="top"/><s n="nt"/></l><r>Баново<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бановци<s n="np"/><s n="top"/><s n="m"/></l><r>Бановци<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Банско<s n="np"/><s n="top"/><s n="nt"/></l><r>Банско<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Банцуси<s n="np"/><s n="top"/><s n="m"/></l><r>Бранкузи<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Баоа<s n="np"/><s n="top"/><s n="f"/></l><r>Баня <s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бараево<s n="np"/><s n="top"/><s n="nt"/></l><r>Бараево<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Барасфорд<s n="np"/><s n="top"/><s n="m"/></l><r>Барасфорд<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Барбадос<s n="np"/><s n="top"/><s n="m"/></l><r>Барбадос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Барбара<s n="np"/><s n="top"/><s n="f"/></l><r>Барбара<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Барбуда<s n="np"/><s n="top"/><s n="f"/></l><r>Барбуда<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бардонечија<s n="np"/><s n="top"/><s n="f"/></l><r>Бардонекия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бари<s n="np"/><s n="top"/><s n="m"/></l><r>Бари<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Барице<s n="np"/><s n="top"/><s n="nt"/></l><r>Барице<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Барнова<s n="np"/><s n="top"/><s n="f"/></l><r>Барнова<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Барселона<s n="np"/><s n="top"/><s n="f"/></l><r>Барселона<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Барун<s n="np"/><s n="top"/><s n="m"/></l><r>Барун<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Барцелона<s n="np"/><s n="top"/><s n="f"/></l><r>Барселона<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Басак<s n="np"/><s n="top"/><s n="m"/></l><r>Башак<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Басра<s n="np"/><s n="top"/><s n="f"/></l><r>Басра<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бата<s n="np"/><s n="top"/><s n="f"/></l><r>Бата<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Батањани<s n="np"/><s n="top"/><s n="m"/></l><r>Батиняни<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Батина<s n="np"/><s n="top"/><s n="f"/></l><r>Батина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Баураи<s n="np"/><s n="top"/><s n="m"/></l><r>Бурауи<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бахреин<s n="np"/><s n="top"/><s n="m"/></l><r>Бахреин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бахри<s n="np"/><s n="top"/><s n="m"/></l><r>Бахри<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Башак<s n="np"/><s n="top"/><s n="m"/></l><r>Башак<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Баши<s n="np"/><s n="top"/><s n="m"/></l><r>Баши<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Беарпарк<s n="np"/><s n="top"/><s n="m"/></l><r>Берпарк<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Беафорт<s n="np"/><s n="top"/><s n="m"/></l><r>Беафорт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бегово<s n="np"/><s n="top"/><s n="nt"/></l><r>Бегово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бежаново<s n="np"/><s n="top"/><s n="nt"/></l><r>Бежаново<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бежи<s n="np"/><s n="top"/><s n="m"/></l><r>Бежов<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Беј<s n="np"/><s n="top"/><s n="m"/></l><r>Беј<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бејрут<s n="np"/><s n="top"/><s n="m"/></l><r>Бейрут<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бекс<s n="np"/><s n="top"/><s n="m"/></l><r>Бекс<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Белгради<s n="np"/><s n="top"/><s n="m"/></l><r>Белград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Белек<s n="np"/><s n="top"/><s n="m"/></l><r>Белек<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Белен<s n="np"/><s n="top"/><s n="m"/></l><r>Белен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Белене<s n="np"/><s n="top"/><s n="nt"/></l><r>Белене<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Белизе<s n="np"/><s n="top"/><s n="nt"/></l><r>Белизе<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Беловар<s n="np"/><s n="top"/><s n="m"/></l><r>Беловар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Белоградчик<s n="np"/><s n="top"/><s n="m"/></l><r>Белоградчик<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Белрад<s n="np"/><s n="top"/><s n="m"/></l><r>Белрад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Белфаст<s n="np"/><s n="top"/><s n="m"/></l><r>Белфаст<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бенгази<s n="np"/><s n="top"/><s n="m"/></l><r>Бенгази<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Беневенто<s n="np"/><s n="top"/><s n="nt"/></l><r>Беневенто<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бенин<s n="np"/><s n="top"/><s n="m"/></l><r>Бенин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бенковац<s n="np"/><s n="top"/><s n="m"/></l><r>Бенковац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Беране<s n="np"/><s n="top"/><s n="nt"/></l><r>Беране<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Берг<s n="np"/><s n="top"/><s n="m"/></l><r>Берг<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бергана<s n="np"/><s n="top"/><s n="f"/></l><r>Бергана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Берекет<s n="np"/><s n="top"/><s n="m"/></l><r>Берекет<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Берковица<s n="np"/><s n="top"/><s n="f"/></l><r>Берковица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Берн<s n="np"/><s n="top"/><s n="m"/></l><r>Берн<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Берово<s n="np"/><s n="top"/><s n="nt"/></l><r>Берово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бесарабија<s n="np"/><s n="top"/><s n="f"/></l><r>Бесарабия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бетар<s n="np"/><s n="top"/><s n="m"/></l><r>Бетар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бетим<s n="np"/><s n="top"/><s n="m"/></l><r>Бетим<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Беќа<s n="np"/><s n="top"/><s n="f"/></l><r>Бекя<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бехар<s n="np"/><s n="top"/><s n="m"/></l><r>Бехар<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бидо<s n="np"/><s n="top"/><s n="nt"/></l><r>Бидо<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Бијела<s n="np"/><s n="top"/><s n="f"/></l><r>Биела<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бијелина<s n="np"/><s n="top"/><s n="f"/></l><r>Биелина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бијело<s n="np"/><s n="top"/><s n="nt"/></l><r>Бело<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бијељина<s n="np"/><s n="top"/><s n="f"/></l><r>Биелина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Билагора<s n="np"/><s n="top"/><s n="f"/></l><r>Билагора<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Билишт<s n="np"/><s n="top"/><s n="m"/></l><r>Билишт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Билјани<s n="np"/><s n="top"/><s n="m"/></l><r>Биляни<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Билокси<s n="np"/><s n="top"/><s n="m"/></l><r>Билкси<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бинас<s n="np"/><s n="top"/><s n="m"/></l><r>Бинас<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Биоград<s n="np"/><s n="top"/><s n="m"/></l><r>Биоград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бирач<s n="np"/><s n="top"/><s n="m"/></l><r>наречие<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бирмингам<s n="np"/><s n="top"/><s n="m"/></l><r>Бърмингам<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бирмингем<s n="np"/><s n="top"/><s n="m"/></l><r>Бирмингам<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бисау<s n="np"/><s n="top"/><s n="m"/></l><r>Бисау<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Биста<s n="np"/><s n="top"/><s n="f"/></l><r>Бюст<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бистлер<s n="np"/><s n="top"/><s n="m"/></l><r>Уислър<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бистра<s n="np"/><s n="top"/><s n="f"/></l><r>Бистра<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бистрица<s n="np"/><s n="top"/><s n="f"/></l><r>Бистрица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Битлис<s n="np"/><s n="top"/><s n="m"/></l><r>Битлис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Битлиш<s n="np"/><s n="top"/><s n="m"/></l><r>Битлис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Битола<s n="np"/><s n="top"/><s n="f"/></l><r>Битоля<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бихор<s n="np"/><s n="top"/><s n="m"/></l><r>Бихор<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бишкек<s n="np"/><s n="top"/><s n="m"/></l><r>Бишкек<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бјалисток<s n="np"/><s n="top"/><s n="m"/></l><r>Бялисток<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бјелина<s n="np"/><s n="top"/><s n="f"/></l><r>Биелина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бјело<s n="np"/><s n="top"/><s n="nt"/></l><r>Биело<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бјеловар<s n="np"/><s n="top"/><s n="m"/></l><r>Беловар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бјрам<s n="np"/><s n="top"/><s n="m"/></l><r>Байрам<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Благај<s n="np"/><s n="top"/><s n="m"/></l><r>Благай<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Блајан<s n="np"/><s n="top"/><s n="m"/></l><r>Блажан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Блајбург<s n="np"/><s n="top"/><s n="m"/></l><r>Блайбург<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Блато<s n="np"/><s n="top"/><s n="nt"/></l><r>Блато<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Блаце<s n="np"/><s n="top"/><s n="nt"/></l><r>Блаце<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Блеград<s n="np"/><s n="top"/><s n="m"/></l><r>Белград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Блед<s n="np"/><s n="top"/><s n="m"/></l><r>Блед<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Блеибург<s n="np"/><s n="top"/><s n="m"/></l><r>Блейбърг<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бобов<s n="np"/><s n="top"/><s n="m"/></l><r>Бобов<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Богдана<s n="np"/><s n="top"/><s n="f"/></l><r>Богдана<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Богданци<s n="np"/><s n="top"/><s n="m"/></l><r>Богданци<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Боговиње<s n="np"/><s n="top"/><s n="nt"/></l><r>Боговине<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бодрум<s n="np"/><s n="top"/><s n="m"/></l><r>Бодрум<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бозкурт<s n="np"/><s n="top"/><s n="m"/></l><r>Бозкурт<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бозтепе<s n="np"/><s n="top"/><s n="nt"/></l><r>Бозтепе<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Боја<s n="np"/><s n="top"/><s n="f"/></l><r>Цвят<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Болани<s n="np"/><s n="top"/><s n="m"/></l><r>Болани<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Боланос<s n="np"/><s n="top"/><s n="m"/></l><r>Боланос<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Боливија<s n="np"/><s n="top"/><s n="f"/></l><r>Боливия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Болинтин<s n="np"/><s n="top"/><s n="m"/></l><r>Болинтин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Болоња<s n="np"/><s n="top"/><s n="f"/></l><r>Болоня<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бољаре<s n="np"/><s n="top"/><s n="nt"/></l><r>Боляре<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бон<s n="np"/><s n="top"/><s n="m"/></l><r>Бон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бор<s n="np"/><s n="top"/><s n="m"/></l><r>Бор<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Борго<s n="np"/><s n="top"/><s n="nt"/></l><r>Борго<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Борјана<s n="np"/><s n="top"/><s n="f"/></l><r>Боряна<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Борк<s n="np"/><s n="top"/><s n="m"/></l><r>Борк<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бормио<s n="np"/><s n="top"/><s n="nt"/></l><r>Бормио<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Борнемаут<s n="np"/><s n="top"/><s n="m"/></l><r>Борнмът<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Борова<s n="np"/><s n="top"/><s n="f"/></l><r>Борова<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Боровац<s n="np"/><s n="top"/><s n="m"/></l><r>Боровац<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Боровец<s n="np"/><s n="top"/><s n="m"/></l><r>Боровец<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Борс<s n="np"/><s n="top"/><s n="m"/></l><r>Борс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Борче<s n="np"/><s n="top"/><s n="nt"/></l><r>Борче<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Боса<s n="np"/><s n="top"/><s n="f"/></l><r>Боса<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Боси<s n="np"/><s n="top"/><s n="m"/></l><r>Боси<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Босилеград<s n="np"/><s n="top"/><s n="m"/></l><r>Босилеград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Босилово<s n="np"/><s n="top"/><s n="nt"/></l><r>Босилово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Босиљево<s n="np"/><s n="top"/><s n="nt"/></l><r>Босилево<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Босне<s n="np"/><s n="top"/><s n="nt"/></l><r>Босна<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бостон<s n="np"/><s n="top"/><s n="m"/></l><r>Бостън<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бот<s n="np"/><s n="top"/><s n="m"/></l><r>Бот<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бота<s n="np"/><s n="top"/><s n="f"/></l><r>Бота<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Ботас<s n="np"/><s n="top"/><s n="m"/></l><r>Боташ<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Боцвана<s n="np"/><s n="top"/><s n="f"/></l><r>Боцвана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бошков<s n="np"/><s n="top"/><s n="m"/></l><r>Бошков<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Брада<s n="np"/><s n="top"/><s n="f"/></l><r>Брада<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Брадфорд<s n="np"/><s n="top"/><s n="m"/></l><r>Брадфорд<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бразавиле<s n="np"/><s n="top"/><s n="nt"/></l><r>Бразавиле<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Брандон<s n="np"/><s n="top"/><s n="m"/></l><r>Брандън<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бранкуси<s n="np"/><s n="top"/><s n="m"/></l><r>Бранкузи<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Брантунац<s n="np"/><s n="top"/><s n="m"/></l><r>Брантунац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бранцуси<s n="np"/><s n="top"/><s n="m"/></l><r>Бранкузи<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Братислава<s n="np"/><s n="top"/><s n="f"/></l><r>Братислава<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Братунац<s n="np"/><s n="top"/><s n="m"/></l><r>Братунац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Брахем<s n="np"/><s n="top"/><s n="m"/></l><r>Брахем<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Брвеница<s n="np"/><s n="top"/><s n="f"/></l><r>Бървеница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Брдо<s n="np"/><s n="top"/><s n="nt"/></l><r>Бърдо<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Брегана<s n="np"/><s n="top"/><s n="f"/></l><r>Брегана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Брегу<s n="np"/><s n="top"/><s n="m"/></l><r>Брегу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бреза<s n="np"/><s n="top"/><s n="f"/></l><r>Бреза<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Брезница<s n="np"/><s n="top"/><s n="f"/></l><r>Брезница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Брезовац<s n="np"/><s n="top"/><s n="m"/></l><r>Брезовец<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Брезовица<s n="np"/><s n="top"/><s n="f"/></l><r>Брезовица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бремен<s n="np"/><s n="top"/><s n="m"/></l><r>Бремен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бремер<s n="np"/><s n="top"/><s n="m"/></l><r>Бремер<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Брендон<s n="np"/><s n="top"/><s n="m"/></l><r>Брендън<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Брест<s n="np"/><s n="top"/><s n="m"/></l><r>Брест<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бретон<s n="np"/><s n="top"/><s n="m"/></l><r>Бретон<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бризбен<s n="np"/><s n="top"/><s n="m"/></l><r>Бризбейн<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бријег<s n="np"/><s n="top"/><s n="m"/></l><r>Брег<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бриндизи<s n="np"/><s n="top"/><s n="m"/></l><r>Бриндизи<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бристол<s n="np"/><s n="top"/><s n="m"/></l><r>Бристъл<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Брница<s n="np"/><s n="top"/><s n="f"/></l><r>Бреница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Брно<s n="np"/><s n="top"/><s n="nt"/></l><r>Бърно<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бродец<s n="np"/><s n="top"/><s n="m"/></l><r>Бродец<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Брок<s n="np"/><s n="top"/><s n="m"/></l><r>Брок<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бугариај<s n="np"/><s n="top"/><s n="m"/></l><r>България<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бугариј<s n="np"/><s n="top"/><s n="m"/></l><r>България<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бугарја<s n="np"/><s n="top"/><s n="f"/></l><r>България<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бугојно<s n="np"/><s n="top"/><s n="nt"/></l><r>Бугойно<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бугрија<s n="np"/><s n="top"/><s n="f"/></l><r>България<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Будапест<s n="np"/><s n="top"/><s n="m"/></l><r>Будапеща<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Будва<s n="np"/><s n="top"/><s n="f"/></l><r>Будва<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Будимпешта<s n="np"/><s n="top"/><s n="f"/></l><r>Будапеща<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Буенос Аирес<s n="np"/><s n="top"/><s n="m"/></l><r>Буенос Айрес<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Буја<s n="np"/><s n="top"/><s n="f"/></l><r>Буя<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бујановац<s n="np"/><s n="top"/><s n="m"/></l><r>Буяновац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Букај<s n="np"/><s n="top"/><s n="m"/></l><r>Букай<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Буков<s n="np"/><s n="top"/><s n="m"/></l><r>Буков<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Буковац<s n="np"/><s n="top"/><s n="m"/></l><r>Буковац<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Буковина<s n="np"/><s n="top"/><s n="f"/></l><r>Буковина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Буниа<s n="np"/><s n="top"/><s n="f"/></l><r>Буния<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бурга<s n="np"/><s n="top"/><s n="f"/></l><r>Бургас<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бурдуја<s n="np"/><s n="top"/><s n="f"/></l><r>Бурдуя<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Бурдур<s n="np"/><s n="top"/><s n="m"/></l><r>Бурдур<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Буркина Фасо<s n="np"/><s n="top"/><s n="nt"/></l><r>Буркина Фасо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Бурма<s n="np"/><s n="top"/><s n="f"/></l><r>Бурма<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Буров<s n="np"/><s n="top"/><s n="m"/></l><r>Буров<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бурса<s n="np"/><s n="top"/><s n="f"/></l><r>Бурса<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бурунди<s n="np"/><s n="top"/><s n="m"/></l><r>Бурунди<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бутан<s n="np"/><s n="top"/><s n="m"/></l><r>Бутан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бутел<s n="np"/><s n="top"/><s n="m"/></l><r>Бутел<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Бутрини<s n="np"/><s n="top"/><s n="m"/></l><r>Бутрини<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Бутринт<s n="np"/><s n="top"/><s n="m"/></l><r>Бутринт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Буфтеа<s n="np"/><s n="top"/><s n="f"/></l><r>Буфтеа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вабре<s n="np"/><s n="top"/><s n="nt"/></l><r>Вабр<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Ваду<s n="np"/><s n="top"/><s n="m"/></l><r>Ваду<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вајска<s n="np"/><s n="top"/><s n="f"/></l><r>Вайска<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вајта<s n="np"/><s n="top"/><s n="f"/></l><r>Вайта<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Вакуф<s n="np"/><s n="top"/><s n="m"/></l><r>Вакъф<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Валандово<s n="np"/><s n="top"/><s n="nt"/></l><r>Валандово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Валбона<s n="np"/><s n="top"/><s n="f"/></l><r>Валдона<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Валеа<s n="np"/><s n="top"/><s n="f"/></l><r>Валета<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Валенсија<s n="np"/><s n="top"/><s n="f"/></l><r>Валенсия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Валенција<s n="np"/><s n="top"/><s n="f"/></l><r>Валенсия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Валиер<s n="np"/><s n="top"/><s n="m"/></l><r>Валиер<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Валтелина<s n="np"/><s n="top"/><s n="f"/></l><r>Валтелина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Ваљево<s n="np"/><s n="top"/><s n="nt"/></l><r>Валево<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Вама<s n="np"/><s n="top"/><s n="f"/></l><r>Вама<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ванкувер<s n="np"/><s n="top"/><s n="m"/></l><r>Ванкувър<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вануату<s n="np"/><s n="top"/><s n="m"/></l><r>Вануату<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Варнавас<s n="np"/><s n="top"/><s n="m"/></l><r>Варнавас<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Варшава<s n="np"/><s n="top"/><s n="f"/></l><r>Варшава<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Васер<s n="np"/><s n="top"/><s n="m"/></l><r>Васер<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Василика<s n="np"/><s n="top"/><s n="f"/></l><r>Василика<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Василики<s n="np"/><s n="top"/><s n="m"/></l><r>Василики<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Василикос<s n="np"/><s n="top"/><s n="m"/></l><r>Василикос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Васнетсов<s n="np"/><s n="top"/><s n="m"/></l><r>Васнецов<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ватикану<s n="np"/><s n="top"/><s n="m"/></l><r>Ватикана<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вау<s n="np"/><s n="top"/><s n="m"/></l><r>Вау<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Вашингон<s n="np"/><s n="top"/><s n="m"/></l><r>Вашингтон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вашинтон<s n="np"/><s n="top"/><s n="m"/></l><r>Вашингтон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вегас<s n="np"/><s n="top"/><s n="m"/></l><r>Вегас<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Веи<s n="np"/><s n="top"/><s n="m"/></l><r>Вей<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Веилер<s n="np"/><s n="top"/><s n="m"/></l><r>Вейлер<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Веимар<s n="np"/><s n="top"/><s n="m"/></l><r>Веимар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вејбриџ<s n="np"/><s n="top"/><s n="m"/></l><r>Уейбридж<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Велберг<s n="np"/><s n="top"/><s n="m"/></l><r>Велберг<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Велека<s n="np"/><s n="top"/><s n="f"/></l><r>Велека<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Велес<s n="np"/><s n="top"/><s n="m"/></l><r>Велес<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Велин<s n="np"/><s n="top"/><s n="m"/></l><r>Велин<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Венац<s n="np"/><s n="top"/><s n="m"/></l><r>Венац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Венген<s n="np"/><s n="top"/><s n="m"/></l><r>Венген<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вендемиано<s n="np"/><s n="top"/><s n="nt"/></l><r>Вендемиано<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Венера<s n="np"/><s n="top"/><s n="f"/></l><r>Венера<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Венецуела<s n="np"/><s n="top"/><s n="f"/></l><r>Венецуела<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Венус<s n="np"/><s n="top"/><s n="m"/></l><r>Винъс<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Вера<s n="np"/><s n="top"/><s n="f"/></l><r>Вера<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Вергина<s n="np"/><s n="top"/><s n="f"/></l><r>Вергина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Верде<s n="np"/><s n="top"/><s n="nt"/></l><r>Верде<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Верија<s n="np"/><s n="top"/><s n="f"/></l><r>Верия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вермонт<s n="np"/><s n="top"/><s n="m"/></l><r>Вермонт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вермош<s n="np"/><s n="top"/><s n="m"/></l><r>Вермош<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Верона<s n="np"/><s n="top"/><s n="f"/></l><r>Верона<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вестон<s n="np"/><s n="top"/><s n="m"/></l><r>Уестън<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Виган<s n="np"/><s n="top"/><s n="m"/></l><r>Виган<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Видово<s n="np"/><s n="top"/><s n="nt"/></l><r>Видово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Виенер<s n="np"/><s n="top"/><s n="m"/></l><r>Виенер<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Виетнам<s n="np"/><s n="top"/><s n="m"/></l><r>Виетнам<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Визнер<s n="np"/><s n="top"/><s n="m"/></l><r>Уизнър<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Викториа<s n="np"/><s n="top"/><s n="f"/></l><r>Виктория<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Викторија<s n="np"/><s n="top"/><s n="f"/></l><r>Виктория<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Вила<s n="np"/><s n="top"/><s n="f"/></l><r>Вила<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Вилниус<s n="np"/><s n="top"/><s n="m"/></l><r>Вилнюс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вилнус<s n="np"/><s n="top"/><s n="m"/></l><r>Вилнюс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Виндзор<s n="np"/><s n="top"/><s n="m"/></l><r>Уиндзор<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Виница<s n="np"/><s n="top"/><s n="f"/></l><r>Виница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Винковци<s n="np"/><s n="top"/><s n="m"/></l><r>Винковци<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Винсент<s n="np"/><s n="top"/><s n="m"/></l><r>Винсент<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Вировитица<s n="np"/><s n="top"/><s n="f"/></l><r>Вировитица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вирџинија<s n="np"/><s n="top"/><s n="f"/></l><r>Вирджиния<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Вис<s n="np"/><s n="top"/><s n="m"/></l><r>Вис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Висан<s n="np"/><s n="top"/><s n="m"/></l><r>Висан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Висбаден<s n="np"/><s n="top"/><s n="m"/></l><r>Висбаден<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Висико<s n="np"/><s n="top"/><s n="nt"/></l><r>Вишич<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Виснер<s n="np"/><s n="top"/><s n="m"/></l><r>Уизнър<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Виста<s n="np"/><s n="top"/><s n="f"/></l><r>Виста<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Витеазу<s n="np"/><s n="top"/><s n="m"/></l><r>Витязу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Витез<s n="np"/><s n="top"/><s n="m"/></l><r>Витез<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Витина<s n="np"/><s n="top"/><s n="f"/></l><r>Витина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вицеу<s n="np"/><s n="top"/><s n="m"/></l><r>Вишеу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Владивосток<s n="np"/><s n="top"/><s n="m"/></l><r>Владивосток<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вландово<s n="np"/><s n="top"/><s n="nt"/></l><r>Валандово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Власеница<s n="np"/><s n="top"/><s n="f"/></l><r>Власеница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Власина<s n="np"/><s n="top"/><s n="f"/></l><r>Власина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Влтаву<s n="np"/><s n="top"/><s n="m"/></l><r>Вълтава<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Водњан<s n="np"/><s n="top"/><s n="m"/></l><r>Воднян<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Воинеагу<s n="np"/><s n="top"/><s n="m"/></l><r>Войнеагу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Војодина<s n="np"/><s n="top"/><s n="f"/></l><r>Войводина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Волга<s n="np"/><s n="top"/><s n="f"/></l><r>Волга<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Волос<s n="np"/><s n="top"/><s n="m"/></l><r>Волос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вол стрит<s n="np"/><s n="top"/><s n="m"/></l><r>Уол Стрийт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вол Стрит<s n="np"/><s n="top"/><s n="m"/></l><r>Уол Стрийт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Волунтари<s n="np"/><s n="top"/><s n="m"/></l><r>Волунтари<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вора<s n="np"/><s n="top"/><s n="f"/></l><r>Вльора<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Воринг<s n="np"/><s n="top"/><s n="m"/></l><r>Воркинг<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ворт<s n="np"/><s n="top"/><s n="m"/></l><r>Уърт<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Врандук<s n="np"/><s n="top"/><s n="m"/></l><r>Врандук<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вранчеа<s n="np"/><s n="top"/><s n="f"/></l><r>Вранча<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Врање<s n="np"/><s n="top"/><s n="nt"/></l><r>Враня<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Враое<s n="np"/><s n="top"/><s n="nt"/></l><r>Вране <s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Врбања<s n="np"/><s n="top"/><s n="f"/></l><r>Върбаня<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Врбас<s n="np"/><s n="top"/><s n="m"/></l><r>Върбас<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Врбовац<s n="np"/><s n="top"/><s n="m"/></l><r>Върбовац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Врбовско<s n="np"/><s n="top"/><s n="nt"/></l><r>Врбовско<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Врбошка<s n="np"/><s n="top"/><s n="f"/></l><r>Върбоска<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Врело<s n="np"/><s n="top"/><s n="nt"/></l><r>Врело<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Вула<s n="np"/><s n="top"/><s n="f"/></l><r>Вула<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Вулпеа<s n="np"/><s n="top"/><s n="f"/></l><r>Вулпя<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Вултру<s n="np"/><s n="top"/><s n="m"/></l><r>Вултру<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Вурмбранд<s n="np"/><s n="top"/><s n="m"/></l><r>Вурмбранд<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Габон<s n="np"/><s n="top"/><s n="m"/></l><r>Габон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Габрово<s n="np"/><s n="top"/><s n="nt"/></l><r>Габрово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Газа<s n="np"/><s n="top"/><s n="f"/></l><r>Газа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Газиантеп<s n="np"/><s n="top"/><s n="m"/></l><r>Газиантеп<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Газивода<s n="np"/><s n="top"/><s n="f"/></l><r>Газивода<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гален<s n="np"/><s n="top"/><s n="m"/></l><r>Гален<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Галиполис<s n="np"/><s n="top"/><s n="m"/></l><r>Галиполис<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Галуп<s n="np"/><s n="top"/><s n="m"/></l><r>Галъп <s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гаља<s n="np"/><s n="top"/><s n="f"/></l><r>Галя<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Гамзиград<s n="np"/><s n="top"/><s n="m"/></l><r>Гамзиград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гана<s n="np"/><s n="top"/><s n="f"/></l><r>Гана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гангзу<s n="np"/><s n="top"/><s n="m"/></l><r>Гуанджоу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гандолфо<s n="np"/><s n="top"/><s n="nt"/></l><r>Гандолфо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Гансу<s n="np"/><s n="top"/><s n="m"/></l><r>Гансу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гао<s n="np"/><s n="top"/><s n="nt"/></l><r>Гао<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Гармиш<s n="np"/><s n="top"/><s n="m"/></l><r>Гармиш<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гаро<s n="np"/><s n="top"/><s n="nt"/></l><r>Гаро <s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Гвантанамо<s n="np"/><s n="top"/><s n="nt"/></l><r>Гуантанамо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Гвантанамо Беј<s n="np"/><s n="top"/><s n="m"/></l><r>Гуантанамо Беј<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гватемала<s n="np"/><s n="top"/><s n="f"/></l><r>Гватемала<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гвинеа<s n="np"/><s n="top"/><s n="f"/></l><r>Гвинеа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гвинеја<s n="np"/><s n="top"/><s n="f"/></l><r>Гвинея<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гебзе<s n="np"/><s n="top"/><s n="nt"/></l><r>Гебзе<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Гевгелија<s n="np"/><s n="top"/><s n="f"/></l><r>Гевгелия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гезер<s n="np"/><s n="top"/><s n="m"/></l><r>Гезер<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гелсенкирхен<s n="np"/><s n="top"/><s n="m"/></l><r>Гелзенкирхен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гелсенкиршен<s n="np"/><s n="top"/><s n="m"/></l><r>Гелзенкирхен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гелсенкорхен<s n="np"/><s n="top"/><s n="m"/></l><r>Гелзенкирхен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гелу<s n="np"/><s n="top"/><s n="m"/></l><r>Джелу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гензано<s n="np"/><s n="top"/><s n="nt"/></l><r>Гензано<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Георгеан<s n="np"/><s n="top"/><s n="m"/></l><r>Георгеан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Георгија<s n="np"/><s n="top"/><s n="f"/></l><r>Георги<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Георгијан<s n="np"/><s n="top"/><s n="m"/></l><r>Джорджан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Герас<s n="np"/><s n="top"/><s n="m"/></l><r>Герас<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гергана<s n="np"/><s n="top"/><s n="f"/></l><r>Гергана<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Герман<s n="np"/><s n="top"/><s n="m"/></l><r>Герман<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Герти<s n="np"/><s n="top"/><s n="m"/></l><r>Герти<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гетеборг<s n="np"/><s n="top"/><s n="m"/></l><r>Гьотеборг<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Геус<s n="np"/><s n="top"/><s n="m"/></l><r>Гьоз<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гибралтар<s n="np"/><s n="top"/><s n="m"/></l><r>Гибралтар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гизија<s n="np"/><s n="top"/><s n="f"/></l><r>Гизия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Гилан<s n="np"/><s n="top"/><s n="m"/></l><r>Гилани<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гимбав<s n="np"/><s n="top"/><s n="m"/></l><r>Гимбав<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гирардот<s n="np"/><s n="top"/><s n="m"/></l><r>Жирадо<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гиургиу<s n="np"/><s n="top"/><s n="m"/></l><r>Гюргево<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Глазгов<s n="np"/><s n="top"/><s n="m"/></l><r>Глазгоу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Глина<s n="np"/><s n="top"/><s n="f"/></l><r>Глина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Глоговац<s n="np"/><s n="top"/><s n="m"/></l><r>Глоговац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гога<s n="np"/><s n="top"/><s n="f"/></l><r>Гога<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Гоилане<s n="np"/><s n="top"/><s n="nt"/></l><r>Гниляне<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Голан<s n="np"/><s n="top"/><s n="m"/></l><r>Голан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Голдфилдс<s n="np"/><s n="top"/><s n="m"/></l><r>Голдфилдс<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Голијан<s n="np"/><s n="top"/><s n="m"/></l><r>Голиян<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Голубовац<s n="np"/><s n="top"/><s n="m"/></l><r>Голубац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гома<s n="np"/><s n="top"/><s n="f"/></l><r>Гома<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Горге<s n="np"/><s n="top"/><s n="nt"/></l><r>дефилето<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Горина<s n="np"/><s n="top"/><s n="f"/></l><r>Горина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Горица<s n="np"/><s n="top"/><s n="f"/></l><r>Горица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Горице<s n="np"/><s n="top"/><s n="nt"/></l><r>Горице<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Горичан<s n="np"/><s n="top"/><s n="m"/></l><r>Горичан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Горња<s n="np"/><s n="top"/><s n="f"/></l><r>Горня<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Горњи<s n="np"/><s n="top"/><s n="m"/></l><r>Горни<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гостивар<s n="np"/><s n="top"/><s n="m"/></l><r>Гостивар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Грабовица<s n="np"/><s n="top"/><s n="f"/></l><r>Грабовица<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Граикос<s n="np"/><s n="top"/><s n="m"/></l><r>Граикос<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Граматико<s n="np"/><s n="top"/><s n="nt"/></l><r>Граматико<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Гранада<s n="np"/><s n="top"/><s n="f"/></l><r>Гранада<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гранит<s n="np"/><s n="top"/><s n="m"/></l><r>Гранит<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гранити<s n="np"/><s n="top"/><s n="m"/></l><r>Гранити<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Грање<s n="np"/><s n="top"/><s n="nt"/></l><r>Гране<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Грас<s n="np"/><s n="top"/><s n="m"/></l><r>Грас<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Грасу<s n="np"/><s n="top"/><s n="m"/></l><r>Грасу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Грахово<s n="np"/><s n="top"/><s n="nt"/></l><r>Грахово<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Грац<s n="np"/><s n="top"/><s n="m"/></l><r>Грац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гревена<s n="np"/><s n="top"/><s n="f"/></l><r>Гревена<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Гренобал<s n="np"/><s n="top"/><s n="m"/></l><r>Гренобъл<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гренобл<s n="np"/><s n="top"/><s n="m"/></l><r>Гренобъл<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Грзибек<s n="np"/><s n="top"/><s n="m"/></l><r>Грзибек<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гризбек<s n="np"/><s n="top"/><s n="m"/></l><r>Гризбек<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гринзан<s n="np"/><s n="top"/><s n="m"/></l><r>Гринзан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гринзане<s n="np"/><s n="top"/><s n="nt"/></l><r>Гринзане<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Гринфилд<s n="np"/><s n="top"/><s n="m"/></l><r>зелено<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Грис<s n="np"/><s n="top"/><s n="m"/></l><r>Гърция<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гронинген<s n="np"/><s n="top"/><s n="m"/></l><r>Грьонинген<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гу<s n="np"/><s n="top"/><s n="m"/></l><r>Гу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гуангжу<s n="np"/><s n="top"/><s n="m"/></l><r>Гуанджоу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гуангзу<s n="np"/><s n="top"/><s n="m"/></l><r>Гуанджоу<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гулен<s n="np"/><s n="top"/><s n="m"/></l><r>Гюлен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гулер<s n="np"/><s n="top"/><s n="m"/></l><r>Гюлер<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гургиу<s n="np"/><s n="top"/><s n="m"/></l><r>Гюргево<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Гури<s n="np"/><s n="top"/><s n="m"/></l><r>Гури<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гурун<s n="np"/><s n="top"/><s n="m"/></l><r>Гурун<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Гусиое<s n="np"/><s n="top"/><s n="nt"/></l><r>Гусине<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Даби<s n="np"/><s n="top"/><s n="m"/></l><r>Даби<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Даблин<s n="np"/><s n="top"/><s n="m"/></l><r>Дъблин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Давос<s n="np"/><s n="top"/><s n="m"/></l><r>Давос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дакар<s n="np"/><s n="top"/><s n="m"/></l><r>Дакар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дакота<s n="np"/><s n="top"/><s n="f"/></l><r>Дакота<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Далкеј<s n="np"/><s n="top"/><s n="m"/></l><r>Далкеј<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дамас<s n="np"/><s n="top"/><s n="m"/></l><r>Дамаск<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дамаск<s n="np"/><s n="top"/><s n="m"/></l><r>Дамаск<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дане<s n="np"/><s n="top"/><s n="nt"/></l><r>Дане<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Данијал<s n="np"/><s n="top"/><s n="m"/></l><r>Даниел<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Даниловград<s n="np"/><s n="top"/><s n="m"/></l><r>Даниловград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дараа<s n="np"/><s n="top"/><s n="f"/></l><r>Дараа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Даун<s n="np"/><s n="top"/><s n="m"/></l><r>Даун<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дахау<s n="np"/><s n="top"/><s n="m"/></l><r>Дахау<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Двери<s n="np"/><s n="top"/><s n="m"/></l><r>Двери<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Де<s n="np"/><s n="top"/><s n="nt"/></l><r>Де<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Дебар<s n="np"/><s n="top"/><s n="m"/></l><r>Дебър<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дебарца<s n="np"/><s n="top"/><s n="f"/></l><r>Дебарца<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Дебрецен<s n="np"/><s n="top"/><s n="m"/></l><r>Дебрецен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дебречен<s n="np"/><s n="top"/><s n="m"/></l><r>Дебречен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Девенпорт<s n="np"/><s n="top"/><s n="m"/></l><r>Дейвънпорт<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Девеселу<s n="np"/><s n="top"/><s n="m"/></l><r>Девеселу<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Деветак<s n="np"/><s n="top"/><s n="m"/></l><r>Деветак<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Девња<s n="np"/><s n="top"/><s n="f"/></l><r>Девня<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Девол<s n="np"/><s n="top"/><s n="m"/></l><r>Девол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Деда<s n="np"/><s n="top"/><s n="f"/></l><r>Деда<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Дејтон<s n="np"/><s n="top"/><s n="m"/></l><r>Дейтън<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Делаваре<s n="np"/><s n="top"/><s n="nt"/></l><r>Делауер<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Делфи<s n="np"/><s n="top"/><s n="m"/></l><r>Делфи<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Делфт<s n="np"/><s n="top"/><s n="m"/></l><r>Делфт<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Демир<s n="np"/><s n="top"/><s n="m"/></l><r>Демир<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Денали<s n="np"/><s n="top"/><s n="m"/></l><r>Денали<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дензили<s n="np"/><s n="top"/><s n="m"/></l><r>Дензили<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Денизли<s n="np"/><s n="top"/><s n="m"/></l><r>Денизли<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дервента<s n="np"/><s n="top"/><s n="f"/></l><r>Дервента<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Дервиш<s n="np"/><s n="top"/><s n="m"/></l><r>Дервиш<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дес<s n="np"/><s n="top"/><s n="m"/></l><r>Дес<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Деспотико<s n="np"/><s n="top"/><s n="nt"/></l><r>Деспотико<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Детроит<s n="np"/><s n="top"/><s n="m"/></l><r>Детроит<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Диего<s n="np"/><s n="top"/><s n="nt"/></l><r>Диего<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Дикмен<s n="np"/><s n="top"/><s n="m"/></l><r>Дикмен<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дили<s n="np"/><s n="top"/><s n="m"/></l><r>Дили<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Димас<s n="np"/><s n="top"/><s n="m"/></l><r>Димас<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Динга<s n="np"/><s n="top"/><s n="f"/></l><r>Динга<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Диона<s n="np"/><s n="top"/><s n="f"/></l><r>Диона<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Дњестар<s n="np"/><s n="top"/><s n="m"/></l><r>Днестър<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Доани<s n="np"/><s n="top"/><s n="m"/></l><r>Доуни<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Добој<s n="np"/><s n="top"/><s n="m"/></l><r>Добой<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Добриња<s n="np"/><s n="top"/><s n="f"/></l><r>Добрина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Добриќ<s n="np"/><s n="top"/><s n="m"/></l><r>Добрик<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Доброва<s n="np"/><s n="top"/><s n="f"/></l><r>Доброва<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Дода<s n="np"/><s n="top"/><s n="f"/></l><r>Дода<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Додеканезе<s n="np"/><s n="top"/><s n="nt"/></l><r>Додеканезе<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Дојран<s n="np"/><s n="top"/><s n="m"/></l><r>Дойран<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Доко<s n="np"/><s n="top"/><s n="nt"/></l><r>Доко<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Дол<s n="np"/><s n="top"/><s n="m"/></l><r>Дол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Долац<s n="np"/><s n="top"/><s n="m"/></l><r>Долац<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Долежал<s n="np"/><s n="top"/><s n="m"/></l><r>Долежал<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Долинка<s n="np"/><s n="top"/><s n="f"/></l><r>Долинка<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Доминго<s n="np"/><s n="top"/><s n="nt"/></l><r>Доминго<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Донг<s n="np"/><s n="top"/><s n="m"/></l><r>Донг<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дондар<s n="np"/><s n="top"/><s n="m"/></l><r>Дьондар<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дону<s n="np"/><s n="top"/><s n="m"/></l><r>Дони<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Доња<s n="np"/><s n="top"/><s n="f"/></l><r>Доня<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Доњи<s n="np"/><s n="top"/><s n="m"/></l><r>Долни<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Доои<s n="np"/><s n="top"/><s n="m"/></l><r>Дони<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дорохои<s n="np"/><s n="top"/><s n="m"/></l><r>Дорохой<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дортмунд<s n="np"/><s n="top"/><s n="m"/></l><r>Дортмунд<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дофинг<s n="np"/><s n="top"/><s n="m"/></l><r>Дофинг<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Доха<s n="np"/><s n="top"/><s n="f"/></l><r>Доха<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Доци<s n="np"/><s n="top"/><s n="m"/></l><r>Доци<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дочиа<s n="np"/><s n="top"/><s n="f"/></l><r>Дочиа<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Драва<s n="np"/><s n="top"/><s n="f"/></l><r>Драва<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Драге<s n="np"/><s n="top"/><s n="nt"/></l><r>Драге<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Драис<s n="np"/><s n="top"/><s n="m"/></l><r>Драйс<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дрвар<s n="np"/><s n="top"/><s n="m"/></l><r>Дървар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дрезден<s n="np"/><s n="top"/><s n="m"/></l><r>Дрезден<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дринo<s n="np"/><s n="top"/><s n="m"/></l><r>Дринo<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дрин<s n="np"/><s n="top"/><s n="m"/></l><r>Дрин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дрина<s n="np"/><s n="top"/><s n="f"/></l><r>Дрина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Дрино<s n="np"/><s n="top"/><s n="nt"/></l><r>Дрино<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Дровјан<s n="np"/><s n="top"/><s n="m"/></l><r>Дровян<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Друзе<s n="np"/><s n="top"/><s n="nt"/></l><r>Друзе<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Дубаи<s n="np"/><s n="top"/><s n="m"/></l><r>Дубаи<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дубина<s n="np"/><s n="top"/><s n="f"/></l><r>Дубина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Дубоко<s n="np"/><s n="top"/><s n="nt"/></l><r>Дубоко<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Дубровнички<s n="np"/><s n="top"/><s n="m"/></l><r>Дубровнишки<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дуисбург<s n="np"/><s n="top"/><s n="m"/></l><r>Дуисбург<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дукат<s n="np"/><s n="top"/><s n="m"/></l><r>Дукат<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дуле<s n="np"/><s n="top"/><s n="nt"/></l><r>Дуле<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Дум<s n="np"/><s n="top"/><s n="m"/></l><r>Дум<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Думитра<s n="np"/><s n="top"/><s n="f"/></l><r>Думитра<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Думре<s n="np"/><s n="top"/><s n="nt"/></l><r>Думра<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Дундо<s n="np"/><s n="top"/><s n="nt"/></l><r>Дундо<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Дунедин<s n="np"/><s n="top"/><s n="m"/></l><r>Дунедин<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дунум<s n="np"/><s n="top"/><s n="m"/></l><r>Дунум<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дур<s n="np"/><s n="top"/><s n="m"/></l><r>Дур<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дурам<s n="np"/><s n="top"/><s n="m"/></l><r>Дърам<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Дурбан<s n="np"/><s n="top"/><s n="m"/></l><r>Дърбан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Дуро<s n="np"/><s n="top"/><s n="nt"/></l><r>Джуро<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Евангелисмос<s n="np"/><s n="top"/><s n="m"/></l><r>Евангелисмос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Евдокија<s n="np"/><s n="top"/><s n="f"/></l><r>Евдокия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Еврокија<s n="np"/><s n="top"/><s n="f"/></l><r>Евдокия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Еврос<s n="np"/><s n="top"/><s n="m"/></l><r>Еврос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Едеса<s n="np"/><s n="top"/><s n="f"/></l><r>Едеса<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Едина<s n="np"/><s n="top"/><s n="f"/></l><r>Едина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Единбург<s n="np"/><s n="top"/><s n="m"/></l><r>Единбург<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Едирне<s n="np"/><s n="top"/><s n="nt"/></l><r>Одрин<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Едмонд<s n="np"/><s n="top"/><s n="m"/></l><r>Едмонд<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Едо<s n="np"/><s n="top"/><s n="nt"/></l><r>Едо<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Едрене<s n="np"/><s n="top"/><s n="nt"/></l><r>Одрин<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Еид<s n="np"/><s n="top"/><s n="m"/></l><r>Еид<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Екали<s n="np"/><s n="top"/><s n="m"/></l><r>Екали<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Еквадор<s n="np"/><s n="top"/><s n="m"/></l><r>Еквадор<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ексетер<s n="np"/><s n="top"/><s n="m"/></l><r>Ексетър<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ел<s n="np"/><s n="top"/><s n="m"/></l><r>Ел<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Елбанас<s n="np"/><s n="top"/><s n="m"/></l><r>Елбанас<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Елбасан<s n="np"/><s n="top"/><s n="m"/></l><r>Елбасан<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Елван<s n="np"/><s n="top"/><s n="m"/></l><r>Елван<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Елгин<s n="np"/><s n="top"/><s n="m"/></l><r>Елджин<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Елгинови<s n="np"/><s n="top"/><s n="m"/></l><r>Елгинови<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Елма<s n="np"/><s n="top"/><s n="f"/></l><r>Елма<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Елунда<s n="np"/><s n="top"/><s n="f"/></l><r>Елунда<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Емек<s n="np"/><s n="top"/><s n="m"/></l><r>Емек<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Емилиа<s n="np"/><s n="top"/><s n="f"/></l><r>Емилия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Емилија<s n="np"/><s n="top"/><s n="f"/></l><r>Емилия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Ен<s n="np"/><s n="top"/><s n="m"/></l><r>Ан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ена<s n="np"/><s n="top"/><s n="f"/></l><r>една<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Енцо<s n="np"/><s n="top"/><s n="nt"/></l><r>Енцо<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Епир<s n="np"/><s n="top"/><s n="m"/></l><r>Епир<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Епирус<s n="np"/><s n="top"/><s n="m"/></l><r>Епир<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ербил<s n="np"/><s n="top"/><s n="m"/></l><r>Ербил<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ереван<s n="np"/><s n="top"/><s n="m"/></l><r>Ереван<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Еретриа<s n="np"/><s n="top"/><s n="f"/></l><r>Еретрия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ерзурум<s n="np"/><s n="top"/><s n="m"/></l><r>Ерзурум<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Еритреа<s n="np"/><s n="top"/><s n="f"/></l><r>Еритрея<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Еритреја<s n="np"/><s n="top"/><s n="f"/></l><r>Еритрея<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ерпорт<s n="np"/><s n="top"/><s n="m"/></l><r>Ерпорт<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ерусалим<s n="np"/><s n="top"/><s n="m"/></l><r>Йерусалим<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Есенвил<s n="np"/><s n="top"/><s n="m"/></l><r>Есен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Есон<s n="np"/><s n="top"/><s n="m"/></l><r>Есон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Еспорт<s n="np"/><s n="top"/><s n="m"/></l><r>Еспот<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Еспот<s n="np"/><s n="top"/><s n="m"/></l><r>Еспот<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Естенг<s n="np"/><s n="top"/><s n="m"/></l><r>Естен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Естењ<s n="np"/><s n="top"/><s n="m"/></l><r>Естен<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Етиопија<s n="np"/><s n="top"/><s n="f"/></l><r>Етиопия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Етхем<s n="np"/><s n="top"/><s n="m"/></l><r>Етем<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Еугене<s n="np"/><s n="top"/><s n="nt"/></l><r>Йожен<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Еуропа<s n="np"/><s n="top"/><s n="f"/></l><r>Европа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Еуфрат<s n="np"/><s n="top"/><s n="m"/></l><r>Ефрат<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ефорие<s n="np"/><s n="top"/><s n="nt"/></l><r>Ефорие<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Ефремов<s n="np"/><s n="top"/><s n="m"/></l><r>Ефремов<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ефстратиос<s n="np"/><s n="top"/><s n="m"/></l><r>Ефстратиос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Жегед<s n="np"/><s n="top"/><s n="m"/></l><r>Жегед<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Женева<s n="np"/><s n="top"/><s n="f"/></l><r>Женева<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Жералдина<s n="np"/><s n="top"/><s n="f"/></l><r>Жералдина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Живан<s n="np"/><s n="top"/><s n="m"/></l><r>Живан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Жоз<s n="np"/><s n="top"/><s n="m"/></l><r>Жос<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Жуан<s n="np"/><s n="top"/><s n="m"/></l><r>Жуан<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Загеб<s n="np"/><s n="top"/><s n="m"/></l><r>Загреб<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Загорје<s n="np"/><s n="top"/><s n="nt"/></l><r>Загоре<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Заграб<s n="np"/><s n="top"/><s n="m"/></l><r>Загреб<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Задар<s n="np"/><s n="top"/><s n="m"/></l><r>Задар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Закаро<s n="np"/><s n="top"/><s n="nt"/></l><r>Закаро<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Закинтос<s n="np"/><s n="top"/><s n="m"/></l><r>Закинтос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зал<s n="np"/><s n="top"/><s n="m"/></l><r>Зал<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Заливот Гвантанамо<s n="np"/><s n="top"/><s n="nt"/></l><r>залива Гуантанамо<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Замбија<s n="np"/><s n="top"/><s n="f"/></l><r>Замбия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Заница<s n="np"/><s n="top"/><s n="f"/></l><r>Заница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Зап<s n="np"/><s n="top"/><s n="m"/></l><r>ХМФ<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Зарагоза<s n="np"/><s n="top"/><s n="f"/></l><r>Сарагоса<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Засада<s n="np"/><s n="top"/><s n="f"/></l><r>Засада<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Зворник<s n="np"/><s n="top"/><s n="m"/></l><r>Зворник<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Згреб<s n="np"/><s n="top"/><s n="m"/></l><r>Загреб<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зденка<s n="np"/><s n="top"/><s n="f"/></l><r>Зденка<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Зденци<s n="np"/><s n="top"/><s n="m"/></l><r>Зденци<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зејид<s n="np"/><s n="top"/><s n="m"/></l><r>Зеид<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Зејмен<s n="np"/><s n="top"/><s n="m"/></l><r>Зеймен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зеленика<s n="np"/><s n="top"/><s n="f"/></l><r>Зеленика<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Земун<s n="np"/><s n="top"/><s n="m"/></l><r>Земун<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Земуник<s n="np"/><s n="top"/><s n="m"/></l><r>Земуник<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зеница<s n="np"/><s n="top"/><s n="f"/></l><r>Зеница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ззгреб<s n="np"/><s n="top"/><s n="m"/></l><r>Ззгреб<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зимбабве<s n="np"/><s n="top"/><s n="nt"/></l><r>Зимбабве<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Зимничеа<s n="np"/><s n="top"/><s n="f"/></l><r>Зимнич<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Зион<s n="np"/><s n="top"/><s n="m"/></l><r>Цион<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Златоград<s n="np"/><s n="top"/><s n="m"/></l><r>Златоград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зонгулдак<s n="np"/><s n="top"/><s n="m"/></l><r>Зонгулдак<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зорница<s n="np"/><s n="top"/><s n="f"/></l><r>Зорница<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Зрењанин<s n="np"/><s n="top"/><s n="m"/></l><r>Зренянин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зреоанин<s n="np"/><s n="top"/><s n="m"/></l><r>Зренянин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зубин<s n="np"/><s n="top"/><s n="m"/></l><r>Зубин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зуг<s n="np"/><s n="top"/><s n="m"/></l><r>Цуг<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Зугдиди<s n="np"/><s n="top"/><s n="m"/></l><r>Зугдиди<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ибар<s n="np"/><s n="top"/><s n="m"/></l><r>Ибър<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ибра<s n="np"/><s n="top"/><s n="f"/></l><r>Ибра<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Ивајловград<s n="np"/><s n="top"/><s n="m"/></l><r>Ивайловград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ивано<s n="np"/><s n="top"/><s n="nt"/></l><r>Ивано<s n="np"/><s n="top"/><s n="nt"/></r></p></e><!-- @@ -->
+<e><p><l>Иваново<s n="np"/><s n="top"/><s n="nt"/></l><r>Иваново<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Ивањица<s n="np"/><s n="top"/><s n="f"/></l><r>Иваница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Иваоица<s n="np"/><s n="top"/><s n="f"/></l><r>Иваница<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Ивелин<s n="np"/><s n="top"/><s n="m"/></l><r>Ивелин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Идиз<s n="np"/><s n="top"/><s n="m"/></l><r>Идиз<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Идлиб<s n="np"/><s n="top"/><s n="m"/></l><r>Идлиб<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Идрак<s n="np"/><s n="top"/><s n="m"/></l><r>Идрак<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Идрија<s n="np"/><s n="top"/><s n="f"/></l><r>Идрия<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Иерапетра<s n="np"/><s n="top"/><s n="f"/></l><r>Иерапетра<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Иза<s n="np"/><s n="top"/><s n="f"/></l><r>Иза<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Изворул<s n="np"/><s n="top"/><s n="m"/></l><r>Изворул<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Измир<s n="np"/><s n="top"/><s n="m"/></l><r>Измир<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Измит<s n="np"/><s n="top"/><s n="m"/></l><r>Измит<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Изник<s n="np"/><s n="top"/><s n="m"/></l><r>Изник<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Изреаел<s n="np"/><s n="top"/><s n="m"/></l><r>Изреаел<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Икалуит<s n="np"/><s n="top"/><s n="m"/></l><r>Икалуит<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Икиздере<s n="np"/><s n="top"/><s n="nt"/></l><r>Икиздере<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Ил<s n="np"/><s n="top"/><s n="m"/></l><r>Ил<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Илиниос<s n="np"/><s n="top"/><s n="m"/></l><r>Илинойс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Илиноис<s n="np"/><s n="top"/><s n="m"/></l><r>Илинойс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Илионис<s n="np"/><s n="top"/><s n="m"/></l><r>Илинойс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Илису<s n="np"/><s n="top"/><s n="m"/></l><r>Илису<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Илфов<s n="np"/><s n="top"/><s n="m"/></l><r>Илфов<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Имброс<s n="np"/><s n="top"/><s n="m"/></l><r>Имброс<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Имер<s n="np"/><s n="top"/><s n="m"/></l><r>Имер<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Имитос<s n="np"/><s n="top"/><s n="m"/></l><r>Имитос<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Ина<s n="np"/><s n="top"/><s n="f"/></l><r>Ина<s n="np"/><s n="top"/><s n="f"/></r></p></e><!-- @@ -->
+<e><p><l>Инал<s n="np"/><s n="top"/><s n="m"/></l><r>Инал<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Инвал<s n="np"/><s n="top"/><s n="m"/></l><r>Инвал<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ингам<s n="np"/><s n="top"/><s n="m"/></l><r>Ингъм<s n="np"/><s n="top"/><s n="m"/></r></p></e><!-- @@ -->
+<e><p><l>Ингланд<s n="np"/><s n="top"/><s n="m"/></l><r>Англия<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Индијана<s n="np"/><s n="top"/><s n="f"/></l><r>Индиана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Индије<s n="np"/><s n="top"/><s n="nt"/></l><r>Индия<s n="np"/><s n="top"/><s n="nt"/></r></p></e>

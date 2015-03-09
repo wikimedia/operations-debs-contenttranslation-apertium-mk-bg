@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <!-- аАбБвВгГдДеЕжЖзЗиИйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩъЪьюЮяЯ -->
+  <alphabet/>
+  <pardefs>
+    <pardef n="abeceda">
+      <e><p><l>а</l><r>а</r></p></e>
+      <e><p><l>б</l><r>б</r></p></e>
+      <e><p><l>в</l><r>в</r></p></e>
+      <e><p><l>г</l><r>г</r></p></e>
+      <e><p><l>д</l><r>д</r></p></e>
+      <e><p><l>е</l><r>е</r></p></e>
+      <e><p><l>ж</l><r>ж</r></p></e>
+      <e><p><l>з</l><r>з</r></p></e>
+      <e><p><l>и</l><r>и</r></p></e>
+      <e><p><l>й</l><r>й</r></p></e>
+      <e><p><l>к</l><r>к</r></p></e>
+      <e><p><l>л</l><r>л</r></p></e>
+      <e><p><l>м</l><r>м</r></p></e>
+      <e><p><l>н</l><r>н</r></p></e>
+      <e><p><l>о</l><r>о</r></p></e>
+      <e><p><l>п</l><r>п</r></p></e>
+      <e><p><l>р</l><r>р</r></p></e>
+      <e><p><l>с</l><r>с</r></p></e>
+      <e><p><l>т</l><r>т</r></p></e>
+      <e><p><l>у</l><r>у</r></p></e>
+      <e><p><l>ф</l><r>ф</r></p></e>
+      <e><p><l>х</l><r>х</r></p></e>
+      <e><p><l>ц</l><r>ц</r></p></e>
+      <e><p><l>ч</l><r>ч</r></p></e>
+      <e><p><l>ш</l><r>ш</r></p></e>
+      <e><p><l>щ</l><r>щ</r></p></e>
+      <e><p><l>ъ</l><r>ъ</r></p></e>
+      <e><p><l>ь</l><r>ь</r></p></e>
+      <e><p><l>ю</l><r>ю</r></p></e>
+      <e><p><l>я</l><r>я</r></p></e>
+    </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+    <!-- Orthographic rules to remove spaces following prefixes -->
+    <e>
+      <p>
+        <l><a/>по-<b/></l>
+        <r>по-</r>
+      </p>
+      <par n="abeceda"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>най-<b/></l>
+        <r>най-</r>
+      </p>
+      <par n="abeceda"/>
+    </e>
+
+    <e>
+      <p>
+        <l><a/>с<b/>с</l>
+        <r>със<b/>с</r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>с<b/>з</l>
+        <r>със<b/>з</r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l><a/>в<b/>ф</l>
+        <r>във<b/>ф</r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>в<b/>в</l>
+        <r>във<b/>в</r>
+      </p>
+    </e>
+
+
+  </section>
+
+</dictionary>

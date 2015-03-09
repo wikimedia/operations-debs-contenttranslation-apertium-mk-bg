@@ -1,0 +1,310 @@
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>";
+ 
+SETS
+
+LIST N = (n) ;
+LIST Num = (num) ;
+LIST Prop = (np) ;
+LIST A = (adj) ;
+LIST CS = (cnjsub) ;
+LIST CC = (cnjcoo) ;
+LIST Adv = (adv) ;
+LIST Abbr = (abbr) ;
+LIST V = (vblex) (vbmod) (vbhaver);
+LIST PREP = (pr) ;
+LIST Interj = (ij) ;
+LIST Pron = (prn) ;
+LIST Pcle = (part) ;
+LIST Copula = (vbser) ;
+LIST L-part = (lp) ;
+LIST P-part = (pp) ;
+LIST Ord = (ord) ;
+
+LIST Pers = (pers) ;
+LIST Dem = (dem) ;
+LIST Itg = (prn itg) ;
+LIST Rel = (prn rel) ;
+LIST Poss = (prn pos) ;
+LIST Clt = (clt) ;
+
+LIST TV = (tv) ;
+LIST IV = (iv) ;
+
+LIST Imprt = (imp) ;
+LIST Pii = (pii) ;
+LIST Aor = (aor) ;
+LIST Prs = (pres) ;
+
+LIST Sg = (sg) ;
+LIST Pl = (pl) ;
+LIST Count = (ct) ;
+
+LIST Masc = (m) ;
+LIST Fem = (f) ;
+LIST Neu = (nt) ;
+
+
+LIST Sg1 = (p1 sg) ;
+LIST Sg2 = (p2 sg) ;
+LIST Sg3 = (p3 sg) ;
+LIST Pl1 = (p1 pl) ;
+LIST Pl2 = (p2 pl) ;
+LIST Pl3 = (p3 pl) ;
+
+LIST Nom = (nom) ;
+LIST Acc = (acc) ;
+LIST Gen = (gen) ;
+LIST Dat = (dat) ;
+LIST Voc = (voc) ;
+
+LIST NUMBER = sg pl ;
+LIST GENDER = m f nt mfn ;
+LIST PERSON = (p1 sg) (p2 sg) (p3 sg) (p1 pl) (p2 pl) (p3 pl) ;
+LIST NAGDV = nom acc dat gen voc ;
+LIST LOWERCASE-WORD = ("[абвгдѓежзѕијклљмнњопрстќуфхцчџшЭѐѝю]+"ri);
+LIST BOS = (>>>) (sent);
+LIST EOS = (<<<) (sent);
+
+SET V-IND-FIN = Prs OR Aor OR Pii ;
+SET V-COP = Copula ;
+SET SG2-OR-SG3 = Sg2 OR Sg3 ;
+SET REL-OR-ITG = (prn rel) OR (prn itg) ;
+SET N-OR-PROP = N OR Prop ;
+SET S-BOUNDARY  = (prn itg) OR (prn rel) OR ("\;") OR (":") OR ("-") OR ("–") OR CS OR ("\.") OR ("\!") OR ("\?");
+SET STRICT-S-BOUNDARY  = ("\;") OR (":") OR ("\.") OR ("\!") OR ("\?");
+###############################################################################
+#  Morphological disambiguation
+#
+
+SECTION
+
+REMOVE:r1 Interj IF ((1 V) OR (1 Pron LINK 1 V)) ;
+	## Корисниците на бесплатен софтвер ќе мора да плаќаат.
+	## Даниел, студент од Бања Лука, вели дека нема намера да ја напушти БиХ.
+		##	remove interjection if there is a verb to the right
+		##or a pronoun to the right and after that a verb
+
+REMOVE:r2 Pron IF (0 ("не")) (-1 REL-OR-ITG) ;
+
+REMOVE:r3 N IF (0 N) (0 V-IND-FIN) (-1C ("не") + Adv) ;
+	##remove a noun if the current word could be a noun or a finite verb and the previous word is only 'ne' as an adverb
+
+REMOVE:r5 TV IF (1C PREP) ;
+##??
+
+SELECT:r6 Sg3 IF (0C V-IND-FIN + SG2-OR-SG3) (NOT -1* Pron + Sg2 BARRIER S-BOUNDARY) ;
+
+SELECT:r7 $$NUMBER IF (0 A) (1 N + $$NUMBER) ;
+##??
+
+SELECT:r8 V-IND-FIN (0 V-IND-FIN) (0 Pron) (NOT -1* V-IND-FIN BARRIER S-BOUNDARY) (NOT 1* V-IND-FIN BARRIER S-BOUNDARY) ;
+	## Ти си тука.
+
+REMOVE:r9 Pron IF (0 Pron) (0 A + $$NUMBER) (1C N + $$NUMBER) ;
+	## На сите места добивав ист одговор Не.
+
+
+
+REMOVE:r4 Imprt IF (-1* REL-OR-ITG BARRIER S-BOUNDARY) ;
+
+REMOVE:r10 Imprt IF (0 N) (0 Imprt) (-1C A);
+	## Тешката економска во Босна и Херцеговина принуди голем број студенти и неодамна дипломирани студенти да ја напуштат земјата.
+
+REMOVE:r11 Imprt IF (0 Imprt) (0 Prs + Sg3) ((-1 ("ќе")) OR (-1 Pron LINK -1 ("ќе")));
+	## Грција објави дека ќе изврши притисок врз Турција да помогне во расчистувањето на судбината на околу 1.500 луѓе кои исчезнаа во тоа време.
+	## Надминувањето на пречките ќе ги зголеми антитерористичките напори.
+
+REMOVE:r12 Imprt IF (0 Imprt) (0 Prs + Sg3) (-1 ("да")) ; 
+	## Таа спиеше еден час и почна да работи
+
+REMOVE:r13 Imprt IF (0 Imprt) (0 Prs + Sg3) (1 CS);
+	## Цитирајќи медиумски извештаи, Стејт департментот соопшти дека турските власти извршиле неколку напади на наводните ќелии на Ал каеда минатата година.
+
+REMOVE:r14 Imprt IF (NOT 1* ("!") BARRIER S-BOUNDARY);
+	# This is probably too loose, but we have to do something
+
+
+REMOVE:r15 V-IND-FIN (0 V-IND-FIN) (0 N + $$NUMBER) (-1C A + $$NUMBER) ;
+	## Министерот за надворешни работи, Вук Драшковиќ, во Њујорк разговараше за актуелните проблеми во покраината со генералниот секретар на ОН.
+
+REMOVE:r16 Pron + Dem IF (0 ("тој")) (NOT 1 N) (NOT -1 PREP) (NOT -1 V-COP) (NOT 1 CS);
+	## Друга милитантна група ја презеде одговорноста за убиството на еден полицаец во Атина, единствениот смртоносен напад во Грција таа година.
+	## "Јас студирам и патувам," рече тој.
+	## Тој е тука.
+	## Тој даде својата книга.
+	## додаде дека оваа поддршка зависи од тоа дали Турција ќе се придржува на принципите на ЕУ
+
+REMOVE:r17 Interj IF (0 ("да")) ((1 V OR Pron) OR (-1 V OR Pron)); 
+	# Do something better here 
+
+
+
+
+SELECT:r18 V-COP IF (0 V-COP) (0 V) ((1 L-part OR A OR P-part) OR (1 Pron LINK 1 L-part OR A));
+	## Ако ми се јавите, би дошол.
+	## Да може бебето да прозборува, би ти рекло...
+	## Полицијата се сомнева дека пратката била наменета за западна Европа.
+	## Кметството било укинато во 1861 година.
+
+SELECT:r19 V-COP IF (0 V-COP) (0 V) (-1 V-COP + V-IND-FIN);
+	## Ако би била една држава, ЕУ би била седмата најголема држава во светот по површина и трета најголема по население, по Кина и Индија.
+
+SELECT:r25 V-COP IF (0 ("<се>")) (0 V-COP) (0 Pron) (1C A);
+    ## нагласија дека претстојните избори во БиХ се клучни за иднината на земјата
+
+
+SELECT:r20 A IF (0 A) (0 N) (1C N-OR-PROP) ;
+	## Koсово се соочува со долг пат пред себе во спречуваoето на трговијата со дрога
+
+SELECT:r21 A IF (0 A) (0 V-IND-FIN) (1C N-OR-PROP) ;
+	## Со оглед на тоа во Западна Европа почнало сериозно да се размислува за воспоставување на поморски врски со Азија.
+
+SELECT:r22 Abbr IF (0 ("ОН")) ((-1 LOWERCASE-WORD) OR (1 LOWERCASE-WORD));
+	## ОН водат истрага за заменик-шефот на косовската мисија.
+
+SELECT:r23 N IF (0 A) (0 N) (-1 A) (1 PREP);
+	## СоЕ повика на формирање на нов суд за човекови права за Косово
+
+SELECT:r24 N IF (0 A) (0 N) (-1 PREP) (1 PREP);
+    ## тие се обврзани да осигурат заштита на правата на сите етнички групи.
+
+SELECT:r26 Dem IF (0 ("<тоа>")) (0 Dem) (0 Pers) (-1 PREP);
+	##додаде дека оваа поддршка зависи од тоа дали Турција ќе се придржува на принципите на ЕУ
+
+SELECT:r27 Dem IF (0 ("<тоа>")) (0 Dem) (0 Pers) (-1 V-COP) (1 ("<што>"));
+	## Лошата страна е тоа што Бугарите велат дека повеќе не можат да си дозволат да летуваат таму.
+
+SELECT:r28 CS IF (0 ("што")) (0 CS) (0 Itg) (0 Rel) (-1 Dem) (NOT 1 V OR Clt);
+	##Лошата страна е тоа што Бугарите велат дека повеќе не можат да си дозволат да летуваат таму.
+
+SELECT:r29 Itg IF (0 Itg) (0 Rel) (-1 BOS);
+	## кој е твојот глас
+
+REMOVE:r30 PREP IF (-1C PREP) (0 PREP) (0 Adv);
+	## на околу 2.000 метри надморска височина
+	
+SELECT:r31 V-COP IF (0 ("<се>")) (0 V-COP) (0 Pron) (1C N) (-1C N);
+	## она што Македонија го заслужува, но тоа што ја одржува Македонија на агендата на Европската Унија се реформите, а тие се неопходни за да може да се направи пробив во некои други поповолни услови."
+
+SELECT:r32 Dem IF (0 Dem) (0 Pers) (1 ("што"));
+	## тоа што ја одржува Македонија на агендата
+	
+SELECT:r33 Rel IF (0 ("што")) (0 CS) (0 Itg) (0 Rel) (-1 Dem) (1 V OR Clt);
+	## тоа што ја одржува Македонија на агендата
+
+#for tenses
+SELECT:r34 Prs IF (0C V-IND-FIN + SG2-OR-SG3) ((-1* Prs BARRIER STRICT-S-BOUNDARY) OR (1* Prs BARRIER STRICT-S-BOUNDARY)) (NOT -1 ("да") + Pcle);
+SELECT:r35 Aor IF (0C V-IND-FIN + SG2-OR-SG3) ((-1* Aor BARRIER STRICT-S-BOUNDARY) OR (1* Aor BARRIER STRICT-S-BOUNDARY)) (NOT -1 ("да") + Pcle);
+SELECT:r36 Pii IF (0C V-IND-FIN + SG2-OR-SG3) ((-1* Pii BARRIER STRICT-S-BOUNDARY) OR (1* Pii BARRIER STRICT-S-BOUNDARY)) (NOT -1 ("да") + Pcle);
+
+SELECT:r39 Prs IF (0 Prs) (0 Aor) (-1 ("да") + Pcle);
+	#тој сакаше да носи камења
+
+REMOVE:r37 Clt IF (0 ("и")) (0 CC) (0 Clt) (NOT -1* Fem BARRIER S-BOUNDARY) (NOT 1* Fem BARRIER S-BOUNDARY);
+	#тој е убаво момче и пее убаво
+	
+SELECT:r38 A IF (0 A + Neu) (0 Adv) (1C N + Neu);
+	#тој е убаво момче
+	#same as rule 7?
+	
+SELECT:r40 Adv IF (0 A + Neu) (0 Adv) (-1C V) (NOT 1C N + Neu);
+	# тој пее убаво
+
+SELECT:r41 Ord IF (1 N) (NOT 1 ("година"));
+	# 20-тите податоци
+
+
+###############################################################################
+#  Syntactic labelling and disambiguation
+#
+
+SECTION
+
+LIST @+FMAINV = @+FMAINV;
+LIST @-FMAINV = @-FMAINV;
+LIST @+FAUXV = @+FAUXV;
+LIST @-FAUXV = @-FAUXV;
+LIST @SUBJ→ = @SUBJ→;
+LIST @←SUBJ = @←SUBJ;
+LIST @OBJ→ = @OBJ→;
+LIST @←OBJ = @←OBJ;
+LIST @IOBJ→ = @IOBJ→;
+LIST @←IOBJ = @←IOBJ;
+LIST @←SPRED = @←SPRED;
+LIST @SPRED→ = @SPRED→;
+
+LIST @→N = @→N;
+LIST @N← = @N←;
+
+LIST @INTERJ = @INTERJ;
+
+
+MAP:r100 (@INTERJ) TARGET Interj ;
+
+#
+# Finite verb:
+#    - Finite main verb
+#    - Finite auxiliary (needs infinite main verb)
+#    - Modal
+
+# Main verb:
+#    - Finite main verb
+#    - Infinite main verb
+
+# 
+# Subjects:
+#    - Personal pronouns (agree in person/number with finite main verb) 
+#    - Demonstrative pronouns (finite main verb in Sg3/Pl3)
+#    -
+#    -
+
+
+MAP:r400 (@SUBJ→) TARGET Pers + $$PERSON + Nom IF (1* V-IND-FIN + $$PERSON BARRIER V-IND-FIN) ;
+	## Јас сум тука.
+	## Ти си тука.
+MAP:r401 (@←SUBJ) TARGET Pers + $$PERSON + Nom IF (-1* V-IND-FIN + $$PERSON BARRIER V-IND-FIN) ;
+
+MAP:r402 (@SUBJ→) TARGET N + $$NUMBER IF (1 V-COP + $$NUMBER);
+	## мажот е убав. 
+
+#
+# Noun modifiers
+#    - Adjectives (agree with head in gender/number)
+#    - Numerals 
+#    -
+
+MAP:r500 (@→N) TARGET A | Poss + $$GENDER + Sg IF (1 N + $$GENDER + Sg) ;
+
+MAP:r501 (@→N) TARGET A | Poss + Pl IF (1 N + Pl) ;
+
+MAP:r502 (@→N) TARGET Num IF ((1 N) OR (1 A LINK 1 N)) ;
+	## Една третина од населението е помладо од 30 години.
+	## Полицијата уапси еден индиски лекар пред неколку месеци.
+
+#
+# Subject predicates 
+#    - Adjectives in copula clauses (agree with subject in gender/number)
+#
+
+MAP:r600 (@←SPRED) TARGET A + $$NUMBER (-1* V-COP + $$NUMBER BARRIER S-BOUNDARY) ;
+	## Јас сум стар.
+
+MAP:r601 (@←SPRED) TARGET N + $$NUMBER (-1* V-COP + $$NUMBER BARRIER S-BOUNDARY OR PREP) ;
+	## Јас сум македонец. 
+	## Чашата е на масата.
+
+#
+# Prepositional phrases
+#    - 
+#    - 
+
+MAP:r700 (@P←) TARGET N | Pron + Dem (-1 PREP); 
+	## Чашата е на масата.
+	## от това
+
+
+# Give up
+#
+
+MAP:r800 (@X) TARGET (prn dem) ;
+MAP:r801 (@X) TARGET (prn pers) ;

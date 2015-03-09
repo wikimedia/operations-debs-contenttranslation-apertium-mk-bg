@@ -1,0 +1,143 @@
+<dictionary>
+<alphabet>abcdefghijklmnopqrstuvwxyz</alphabet>
+<sdefs>
+  <sdef n="num"/>
+  <sdef n="ord"/>
+  <sdef n="sg"/>
+  <sdef n="pl"/>
+  <sdef n="nom"/>
+  <sdef n="m"/>
+  <sdef n="f"/>
+  <sdef n="nt"/>
+  <sdef n="mfn"/>
+  <sdef n="def"/>
+  <sdef n="ind"/>
+  <sdef n="prx"/>
+  <sdef n="dst"/>
+</sdefs>
+<pardefs>
+<pardef n="numeros">
+<e><re>[0-9]*[7,8]</re><p><l>-ми</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-ма</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мо</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-ми</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-миот</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мата</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мото</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мите</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-миов</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мава</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мово</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-миве</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мион</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мана</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-моно</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[7,8]</re><p><l>-мине</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-ти</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-та</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-то</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-ти</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тиот</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тата</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тото</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тите</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тиов</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тава</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тово</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тиве</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тион</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тана</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тоно</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,3,4,5,6,9,12,11]</re><p><l>-тине</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+
+<e><re>[0-9]*[00]</re><p><l>-ен</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-на</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-но</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ни</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ниот</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ната</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ното</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ните</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ниов</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-нава</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ново</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ниве</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-нион</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-нана</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-ноно</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[00]</re><p><l>-нине</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-ри</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-ра</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-ро</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-ри</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-риот</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рата</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рото</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рите</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-риов</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рава</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рово</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-риве</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рион</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рана</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-роно</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[2]</re><p><l>-рине</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-ви</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-ва</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-во</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-ви</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-виот</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вата</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вото</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вите</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-виов</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вава</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вово</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-виве</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вион</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="m"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вана</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="f"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-воно</l><r><s n="num"/><s n="ord"/><s n="sg"/><s n="nt"/><s n="nom"/><s n="dst"/></r></p></e>
+<e><re>[0-9]*[0,2-9]*[1]</re><p><l>-вине</l><r><s n="num"/><s n="ord"/><s n="pl"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+
+
+</pardef>
+</pardefs>
+<section id="final" type="inconditional">
+<e><par n="numeros"/></e>
+</section>
+</dictionary>
+
+
+
+<!--
+	27-миот is because 27=дваесет и седум, it finishes on an "м"
+	10-тиот: 10=десет
+	12-ти пациент денес: 12th patient today
+	60-тата година од неговиот живот: 60th year in his life
+	* 240 г. п.н.е.	 - 240 BCE
+	* 467 г. пред н.е.	- 467 BCE
+	* 27-миот	 - the 27th
+	* 10-тиот	 - the 10th
+	* 17-ти	 - the 17th
+	* 60-тата	 - the 60th
+	* 22-та	 - the 22nd
+	* 21-ви	 - the 21st
+	* 2-ри	 - the 2nd
+	* 50-тина	 - around 50
+	* 1990-тите	 - 1990s
+	* 48-ма	 - 48th
+	* 10-ди	 - /typo for -ti/
+	
+	27-ми август
+	10-ти март
+	Од 11-те кандидат...
+
+	20-тиот век
+	својата 10-та година.
+	97-мото место
+	54-тото место
+	
+-->

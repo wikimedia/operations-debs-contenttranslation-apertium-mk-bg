@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <pardefs>
+    <pardef n="abeceda">
+      <e><p><l>а</l><r>а</r></p></e>
+      <e><p><l>б</l><r>б</r></p></e>
+      <e><p><l>в</l><r>в</r></p></e>
+      <e><p><l>г</l><r>г</r></p></e>
+      <e><p><l>д</l><r>д</r></p></e>
+      <e><p><l>ѓ</l><r>ѓ</r></p></e>
+      <e><p><l>е</l><r>е</r></p></e>
+      <e><p><l>ж</l><r>ж</r></p></e>
+      <e><p><l>з</l><r>з</r></p></e>
+      <e><p><l>ѕ</l><r>ѕ</r></p></e>
+      <e><p><l>и</l><r>и</r></p></e>
+      <e><p><l>ј</l><r>ј</r></p></e>
+      <e><p><l>к</l><r>к</r></p></e>
+      <e><p><l>л</l><r>л</r></p></e>
+      <e><p><l>љ</l><r>љ</r></p></e>
+      <e><p><l>м</l><r>м</r></p></e>
+      <e><p><l>н</l><r>н</r></p></e>
+      <e><p><l>њ</l><r>њ</r></p></e>
+      <e><p><l>о</l><r>о</r></p></e>
+      <e><p><l>п</l><r>п</r></p></e>
+      <e><p><l>р</l><r>р</r></p></e>
+      <e><p><l>с</l><r>с</r></p></e>
+      <e><p><l>т</l><r>т</r></p></e>
+      <e><p><l>ќ</l><r>ќ</r></p></e>
+      <e><p><l>у</l><r>у</r></p></e>
+      <e><p><l>ф</l><r>ф</r></p></e>
+      <e><p><l>х</l><r>х</r></p></e>
+      <e><p><l>ц</l><r>ц</r></p></e>
+      <e><p><l>ч</l><r>ч</r></p></e>
+      <e><p><l>џ</l><r>џ</r></p></e>
+      <e><p><l>ш</l><r>ш</r></p></e>
+    </pardef>
+    <pardef n="vo_v">
+      <e><p><l>а</l><r>а</r></p></e>
+      <e><p><l>б</l><r>б</r></p></e>
+      <e><p><l>г</l><r>г</r></p></e>
+      <e><p><l>д</l><r>д</r></p></e>
+      <e><p><l>ѓ</l><r>ѓ</r></p></e>
+      <e><p><l>е</l><r>е</r></p></e>
+      <e><p><l>ж</l><r>ж</r></p></e>
+      <e><p><l>з</l><r>з</r></p></e>
+      <e><p><l>ѕ</l><r>ѕ</r></p></e>
+      <e><p><l>и</l><r>и</r></p></e>
+      <e><p><l>ј</l><r>ј</r></p></e>
+      <e><p><l>к</l><r>к</r></p></e>
+      <e><p><l>л</l><r>л</r></p></e>
+      <e><p><l>љ</l><r>љ</r></p></e>
+      <e><p><l>м</l><r>м</r></p></e>
+      <e><p><l>н</l><r>н</r></p></e>
+      <e><p><l>њ</l><r>њ</r></p></e>
+      <e><p><l>о</l><r>о</r></p></e>
+      <e><p><l>п</l><r>п</r></p></e>
+      <e><p><l>р</l><r>р</r></p></e>
+      <e><p><l>с</l><r>с</r></p></e>
+      <e><p><l>т</l><r>т</r></p></e>
+      <e><p><l>ќ</l><r>ќ</r></p></e>
+      <e><p><l>у</l><r>у</r></p></e>
+      <e><p><l>х</l><r>х</r></p></e>
+      <e><p><l>ц</l><r>ц</r></p></e>
+      <e><p><l>ч</l><r>ч</r></p></e>
+      <e><p><l>џ</l><r>џ</r></p></e>
+      <e><p><l>ш</l><r>ш</r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <!-- Orthographic rules to remove spaces following prefixes -->
+    <e>
+      <p>
+        <l><a/>по<b/></l>
+        <r>по</r>
+      </p>
+      <par n="abeceda"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>нај<b/></l>
+        <r>нај</r>
+      </p>
+      <par n="abeceda"/>
+    </e>
+
+    <!-- In general vo is used unless the object of the preposition is an indefinite 
+         substantive that does not begin with /v/ or /f/ and is not being used in 
+         focus or contrast. Even then, there is some vacillation (see Koneski 1967:509-514). 
+         According to the norm, usage with days of the week constitute a special case, 
+         illustrated by the following examples: vo sreda ‘on Wednesdays, every Wednesday’;
+         v sreda ‘this (next, coming) Wednesday’; vo sredata ‘last (this past) Wednesday’. -->
+
+  </section>
+
+</dictionary>
