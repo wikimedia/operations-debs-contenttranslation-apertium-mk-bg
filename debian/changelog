@@ -1,3 +1,11 @@
+apertium-mk-bg (0.2.0~r49489-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * Cleanup debian/rules.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Jun 2016 17:10:35 +0530
+
 apertium-mk-bg (0.2.0~r49489-1) experimental; urgency=low
 
   * Initial release
