@@ -1,3 +1,9 @@
+apertium-mk-bg (0.2.0~r49489-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Depends on cg3 (>= 1.0.0~r12254)
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 12 Dec 2017 12:45:41 +0530
+
 apertium-mk-bg (0.2.0~r49489-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
